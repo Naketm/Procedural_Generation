@@ -1,0 +1,7 @@
+return {
+	OCTAVES = 4;
+	LACUNARITY = 3;
+	PERSISTENCE = 0.35;
+	HEIGHT_SCALE = 50;
+	NOISE_SCALE = 50;
+}
