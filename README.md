@@ -1,4 +1,4 @@
-<img width="1231" height="695" alt="procedural_gen" src="https://github.com/user-attachments/assets/2e4e5aad-921f-46cd-b413-115cfa0c156c" /># Procedural Generation, benchmarking showed like 7 or 5 seconds for a 200x200 map I believe lolz
+# Procedural Generation, benchmarking showed like 7 or 5 seconds for a 200x200 map I believe lolz
 
 
 <img width="235" height="331" alt="image" src="https://github.com/user-attachments/assets/4a30ccc4-6b45-4212-93f6-01ec96284410" />
